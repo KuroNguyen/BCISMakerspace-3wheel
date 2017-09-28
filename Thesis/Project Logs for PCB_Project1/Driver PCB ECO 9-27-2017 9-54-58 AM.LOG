@@ -1,0 +1,80 @@
+Added Component: Designator=D1(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15(SS34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16(SS34)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=OUTA-1 Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=OUTA-2 Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=OUTA-3 Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=OUTA-4 Pin=D4-2
+Added Pin To Net: NetName=OUTA-1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=OUTA-2 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=OUTA-3 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=OUTA-4 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=VCC Pin=D9-1
+Added Pin To Net: NetName=OUTB-1 Pin=D9-2
+Added Pin To Net: NetName=VCC Pin=D10-1
+Added Pin To Net: NetName=OUTB-2 Pin=D10-2
+Added Pin To Net: NetName=VCC Pin=D11-1
+Added Pin To Net: NetName=OUTB-3 Pin=D11-2
+Added Pin To Net: NetName=VCC Pin=D12-1
+Added Pin To Net: NetName=OUTB-4 Pin=D12-2
+Added Pin To Net: NetName=OUTB-1 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=OUTB-2 Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=OUTB-3 Pin=D15-1
+Added Pin To Net: NetName=GND Pin=D15-2
+Added Pin To Net: NetName=OUTB-4 Pin=D16-1
+Added Pin To Net: NetName=GND Pin=D16-2
+Added Member To Class: ClassName=Driver Member=Component D1 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D2 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D3 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D4 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D5 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D6 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D7 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D8 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D9 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D10 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D11 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D12 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D13 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D14 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D15 Diode-S
+Added Member To Class: ClassName=Driver Member=Component D16 Diode-S

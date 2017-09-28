@@ -1,0 +1,3 @@
+Change Component Comment : Designator=D1 Old Comment=D Schottky New Comment=Diode
+Change component parameters: Designator = "D1"; Footprint = "SS34"; UniqueID = "\VAOMOKBP"
+Change component parameters. Clean all parameters for all variants

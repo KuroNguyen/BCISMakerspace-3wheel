@@ -1,0 +1,5 @@
+Added Component: Designator=D1(SS34)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=OUTA-1 Pin=D1-2
+Added Member To Class: ClassName=Driver Member=Component D1 Diode-S
