@@ -1,0 +1,12 @@
+Added Component: Designator=H1(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Driver Member=Component H1 Hole
+Added Member To Class: ClassName=Driver Member=Component H2 Hole
+Added Member To Class: ClassName=Driver Member=Component H3 Hole
+Added Member To Class: ClassName=Driver Member=Component H4 Hole
